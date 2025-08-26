@@ -19,9 +19,10 @@
 
 * 🎓 **Associate of Applied Science in Software Development** at *Astana IT University College*, graduating **2026**
 * 💡 Interests: **AI/ML**, **Computer Vision**, **Full‑Stack Development**, **Hackathons**
-* 🚀 Hackathon achievements: 🥇 1st Place at **PowerUp Hackathon 2025**, Finalist at **Meta Llama Accelerator 2025**
+* 🚀 Hackathon achievements: 🥇 1st Place at **Hackathons 2025**, Finalist at **Meta Llama Accelerator 2025**
 * 🎤 Public speaker at **Google DevFest 2024** & **Terricon Valley 2025**
 * 📫 Reach me: **[makazanalpamys@gmail.com](mailto:makazanalpamys@gmail.com)** · **[@Th1men](https://t.me/Th1men)** · [LinkedIn](https://www.linkedin.com/in/alpamys-makazhan-7059682a3/)
+* Made in Kazakhstan 🇰🇿 
 
 ---
 
