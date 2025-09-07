@@ -31,8 +31,11 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
@@ -44,6 +47,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white"/>
 </p>
+
 
 ---
 
