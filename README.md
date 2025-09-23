@@ -1,255 +1,287 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&weight=400&size=32&duration=3000&pause=1000&color=00AA00&center=true&vCenter=true&multiline=true&width=900&height=140&lines=%F0%9F%8E%AE+Welcome+to+Alpamys's+Minecraft+World!;%E2%9B%8F%EF%B8%8F+Mining+Code+Since+2020;%F0%9F%94%A5+Crafting+AI+%26+Full-Stack+Apps;%F0%9F%8F%86+Achievement+Hunter+%7C+Hackathon+Champion" alt="Minecraft Typing SVG" />
+
 ```
-    ╔══════════════════════════════════════════════════════════════════════╗
-    ║   ██████╗ ██╗   ██╗██████╗ ███████╗██████╗ ██████╗ ███████╗██╗   ██╗ ║
-    ║  ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔════╝██║   ██║ ║
-    ║  ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝██║  ██║█████╗  ██║   ██║ ║
-    ║  ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗██║  ██║██╔══╝  ╚██╗ ██╔╝ ║
-    ║  ╚██████╗   ██║   ██████╔╝███████╗██║  ██║██████╔╝███████╗ ╚████╔╝  ║
-    ║   ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝  ╚═══╝   ║
-    ╚══════════════════════════════════════════════════════════════════════╝
-           ▄▀█ █░░ █▀█ █▀█ █▀▄▀█ █▄█ █▀   █▀▄▀█ █▀█ █▄▀ █▀█ ▀▀█ █░█ █▀█ █▄░█
-           █▀█ █▄▄ █▀▀ █▀█ █░▀░█ ░█░ ▄█   █░▀░█ █▀█ █░█ █▀█ ▄▄█ █▀█ █▀█ █░▀█
-    ╔══════════════════════════════════════════════════════════════════════╗
-    ║                    > INITIALIZING NEURAL NETWORK...                  ║
-    ║                    > LOADING AI ALGORITHMS...                        ║
-    ║                    > ESTABLISHING CONNECTION...                      ║
-    ║                    > STATUS: █████████████████████ 100% ONLINE       ║
-    ╚══════════════════════════════════════════════════════════════════════╝
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫⬜
+⬜🟫🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟫⬜
+⬜🟫🟩🟩🟩🟩🟩⬛⬛⬛⬛⬛🟩🟩🟩⬛⬛⬛⬛⬛🟩🟩🟩⬛⬛⬛⬛⬛🟩🟩⬛⬛⬛⬛⬛🟩🟩🟫⬜
+⬜🟫🟩🟩🟩🟩🟩⬛🟦🟦🟦⬛🟩🟩🟩⬛🟩🟩🟩⬛🟩🟩🟩⬛🟦🟦🟦⬛🟩🟩⬛🟩🟩🟩⬛🟩🟩🟫⬜
+⬜🟫🟩🟩🟩🟩🟩⬛🟦🟦🟦⬛🟩🟩🟩⬛🟦🟦🟦⬛🟩🟩🟩⬛🟦🟦🟦⬛🟩🟩⬛🟦🟦🟦⬛🟩🟩🟫⬜
+⬜🟫🟩🟩🟩🟩🟩⬛🟦🟦🟦⬛🟩🟩🟩⬛⬛⬛⬛⬛🟩🟩🟩⬛🟦🟦🟦⬛🟩🟩⬛🟦🟦🟦⬛🟩🟩🟫⬜
+⬜🟫🟩🟩🟩🟩🟩⬛⬛⬛⬛⬛🟩🟩🟩⬛🟩🟩🟩⬛🟩🟩🟩⬛⬛⬛⬛⬛🟩🟩⬛🟦🟦🟦⬛🟩🟩🟫⬜
+⬜🟫🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛⬛🟩🟩🟫⬜
+⬜🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=SYSTEM+STATUS%3A+ONLINE;AI+DEVELOPER+%7C+HACKATHON+CHAMPION;NEURAL+NETWORKS+%7C+FULL-STACK+ARCHITECT;LOCATION%3A+ASTANA%2C+KAZAKHSTAN+🇰🇿;MISSION%3A+BUILDING+THE+DIGITAL+FUTURE" />
-
-<div>
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=000000"/>
-<img src="https://img.shields.io/badge/MODE-HACK_THE_PLANET-FF0080?style=for-the-badge&labelColor=000000"/>
-<img src="https://komarev.com/ghpvc/?username=MakazhanAlpamys&style=for-the-badge&color=00FF41&label=NEURAL_SCANS&labelColor=000000"/>
-<img src="https://img.shields.io/github/followers/MakazhanAlpamys?label=NODES_CONNECTED&style=for-the-badge&color=FF0080&labelColor=000000"/>
-</div>
+<img src="https://img.shields.io/badge/🎮_PLAYER-MakazhanAlpamys-brightgreen?style=for-the-badge&logo=minecraft&logoColor=white&labelColor=654321"/>
+<img src="https://img.shields.io/badge/🌍_WORLD-Kazakhstan-green?style=for-the-badge&labelColor=654321"/>
+<img src="https://komarev.com/ghpvc/?username=MakazhanAlpamys&style=for-the-badge&color=brightgreen&label=VISITORS&labelColor=654321"/>
+<img src="https://img.shields.io/github/followers/MakazhanAlpamys?label=FRIENDS&style=for-the-badge&color=brightgreen&labelColor=654321"/>
 
 </div>
 
 ---
 
-```bash
-┌─[alpamys@cyber-dev]─[~]
-└──╼ $ whoami
-```
-
-```json
-{
-  "user": "MakazhanAlpamys",
-  "class": "CyberDeveloper",
-  "level": 99,
-  "specialization": ["AI_Engineer", "Full_Stack_Architect", "Hackathon_Warrior"],
-  "location": {
-    "country": "Kazakhstan 🇰🇿",
-    "city": "Astana",
-    "timezone": "GMT+6"
-  },
-  "education": {
-    "degree": "Software Development",
-    "institution": "Astana IT University College",
-    "graduation_year": 2026,
-    "gpa": "HIGH_PERFORMANCE"
-  },
-  "achievements_unlocked": [
-    "🏆 CHAMPION: Hackathons 2025",
-    "🔥 ELITE: Meta Llama Accelerator Finalist",
-    "🎙️ SPEAKER: Google DevFest 2024",
-    "🚀 KEYNOTE: Terricon Valley 2025"
-  ],
-  "contact_protocols": {
-    "email": "makazanalpamys@gmail.com",
-    "telegram": "@Th1men",
-    "linkedin": "linkedin.com/in/alpamys-makazhan-7059682a3/"
-  }
-}
-```
-
----
-
-```bash
-┌─[alpamys@cyber-dev]─[~]
-└──╼ $ cat /proc/skills
-```
+## 🧱 Player Stats
 
 <div align="center">
 
 ```
-╭────────────── NEURAL NETWORK ARCHITECTURE ──────────────╮
-│                                                          │
-│  ┌─ CORE_LANGUAGES ─────────────────────────────────────┐ │
-│  │  Python     ████████████████████ 95%  [MASTERED]    │ │
-│  │  JavaScript ████████████████████ 90%  [ADVANCED]    │ │
-│  │  TypeScript █████████████████▓▓▓ 85%  [ADVANCED]    │ │
-│  │  C#         ████████████████▓▓▓▓ 80%  [PROFICIENT] │ │
-│  │  Java       ███████████████▓▓▓▓▓ 75%  [PROFICIENT] │ │
-│  │  Dart       ██████████████▓▓▓▓▓▓ 70%  [COMPETENT]  │ │
-│  └──────────────────────────────────────────────────────┘ │
-│                                                          │
-│  ┌─ AI_ML_FRAMEWORKS ────────────────────────────────────┐ │
-│  │  TensorFlow     [████████████████████] NEURAL_READY  │ │
-│  │  PyTorch        [██████████████████▓▓] DEEP_LEARNING │ │
-│  │  OpenCV         [█████████████████▓▓▓] VISION_PROC   │ │
-│  │  Scikit-Learn   [████████████████████] DATA_SCIENCE  │ │
-│  └──────────────────────────────────────────────────────┘ │
-│                                                          │
-│  ┌─ FULL_STACK_ARSENAL ──────────────────────────────────┐ │
-│  │  React.js    [🌐] Frontend_Framework   [DEPLOYED]    │ │
-│  │  Node.js     [⚡] Backend_Runtime      [OPTIMIZED]   │ │
-│  │  Flutter     [📱] Mobile_CrossPlatform [RESPONSIVE]  │ │
-│  │  PostgreSQL  [🗄️] Database_Relational  [NORMALIZED]  │ │
-│  │  MongoDB     [📊] Database_NoSQL       [INDEXED]     │ │
-│  │  Docker      [🐳] Containerization    [ORCHESTRATED]│ │
-│  └──────────────────────────────────────────────────────┘ │
-╰──────────────────────────────────────────────────────────╯
+┌─────────────────────────── PLAYER PROFILE ────────────────────────────┐
+│                                                                        │
+│  👤 IGN: Alpamys Makazhan (@MakazhanAlpamys)                          │
+│  🎓 Class: Software Development Student                                │
+│  🏫 Guild: Astana IT University College                               │
+│  📅 Graduation: 2026                                                  │
+│  🗺️  Spawn Point: Astana, Kazakhstan 🇰🇿                             │
+│  💎 Level: Expert Coder                                               │
+│                                                                        │
+│  ⚔️  Specializations:                                                  │
+│     • 🤖 AI & Machine Learning Engineer                               │
+│     • 🌐 Full-Stack Developer                                         │
+│     • 🎯 Hackathon Champion                                           │
+│     • 🎤 Conference Speaker                                           │
+│                                                                        │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-```bash
-┌─[alpamys@cyber-dev]─[~]
-└──╼ $ ls -la ~/projects/featured/
-```
+## ⛏️ Inventory & Tools
 
 <div align="center">
 
-| 📁 **PROJECT** | 🎯 **CLASSIFICATION** | 📊 **METRICS** | 🛡️ **SECURITY_LEVEL** |
+```
+╔══════════════════════════ CRAFTING TABLE ══════════════════════════╗
+║                                                                     ║
+║  🪓 PROGRAMMING LANGUAGES:                                          ║
+║  ┌─────┬─────┬─────┐ ┌─────┬─────┬─────┐ ┌─────┬─────┬─────┐        ║
+║  │🐍 Py│☕ Js│📘 Ts│ │⚙️ C#│☕Java│🎯Dart│ │🔷SQL│🐚Bash│🔶HTML│       ║
+║  │thon │cript│cript│ │     │     │     │ │    │    │     │        ║
+║  └─────┴─────┴─────┘ └─────┴─────┴─────┘ └─────┴─────┴─────┘        ║
+║                                                                     ║
+║  🔧 AI/ML FRAMEWORKS:                                               ║
+║  ┌─────┬─────┬─────┐ ┌─────┬─────┬─────┐                           ║
+║  │🧠TF │🔥PT │👁️CV │ │🧮SK │📊NP │🐼PD │                            ║
+║  │Flow │orch │    │ │Learn│ Py │ as │                            ║
+║  └─────┴─────┴─────┘ └─────┴─────┴─────┘                           ║
+║                                                                     ║
+║  🌐 FULL-STACK ARSENAL:                                             ║
+║  ┌─────┬─────┬─────┐ ┌─────┬─────┬─────┐                           ║
+║  │⚛️ Re│⚡ No│📱Flu│ │🐘PG │🍃MG │🐳Doc│                            ║
+║  │act │de.js│tter │ │ SQL │ DB │ker │                            ║
+║  └─────┴─────┴─────┘ └─────┴─────┴─────┘                           ║
+║                                                                     ║
+╚═════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🏆 Achievements Unlocked
+
+<div align="center">
+
+| 🏅 **Achievement** | 📜 **Description** | 🎯 **Rarity** | 📅 **Date** |
 |:---:|:---:|:---:|:---:|
-| `FairTender.ai` | **🔍 ML_SURVEILLANCE** | `96.1% Accuracy` | 🔐 **CLASSIFIED** |
-| `Chess.AI` | **🧠 STRATEGIC_AI** | `Stockfish Integration` | 🟢 **PUBLIC** |
-| `FakeNewsDetector` | **🛡️ INFORMATION_WARFARE** | `LLM Confidence Scoring` | 🟡 **RESTRICTED** |
-| `AiBio` | **🧬 EDUCATIONAL_NEURAL** | `🥇 1st Place Winner` | 🟢 **OPEN_SOURCE** |
-| `MetaLlamaProject` | **🦙 ACCELERATOR_GRADE** | `Finalist Status` | 🔴 **TOP_SECRET** |
-
-</div>
-
----
-
-```bash
-┌─[alpamys@cyber-dev]─[~]
-└──╼ $ git log --oneline --graph --all
-```
-
-<div align="center">
-<img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MakazhanAlpamys&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=00FF41&icon_color=FF0080&text_color=00FF41&border_color=00FF41&hide_border=false&border_radius=10&custom_title=SYSTEM_DIAGNOSTICS"/>
-<img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MakazhanAlpamys&layout=compact&theme=chartreuse-dark&bg_color=000000&title_color=00FF41&text_color=00FF41&border_color=00FF41&hide_border=false&border_radius=10&custom_title=CODE_ANALYSIS"/>
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=MakazhanAlpamys&theme=chartreuse-dark&background=000000&border=00FF41&stroke=00FF41&ring=FF0080&fire=FF0080&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=FF0080&sideLabels=FF0080&dates=00FF41&hide_border=false&border_radius=10" alt="GitHub Streak"/>
-</div>
-
----
-
-```bash
-┌─[alpamys@cyber-dev]─[~]
-└──╼ $ cat /var/log/achievements.log
-```
-
-<div align="center">
+| 🥇 **Hackathon Master** | Won 1st Place at Hackathons 2025 | **Legendary** | 2025 |
+| 🔥 **Meta Elite** | Finalist at Meta Llama Accelerator | **Epic** | 2025 |
+| 🎤 **Conference Speaker** | Spoke at Google DevFest 2024 | **Rare** | 2024 |
+| 🚀 **Valley Explorer** | Keynote at Terricon Valley 2025 | **Rare** | 2025 |
+| 🏅 **Code Olympian** | Finalist at AITU ICODE Olympiad | **Uncommon** | 2024 |
 
 ```
-[2025-03-XX] INFO: HACKATHON_VICTORY -> Status: CHAMPION 🏆
-[2025-02-XX] INFO: META_LLAMA_ACCELERATOR -> Status: FINALIST 🔥
-[2024-11-XX] INFO: GOOGLE_DEVFEST_SPEAKER -> Topic: AI & Big Data 🎤
-[2025-01-XX] INFO: TERRICON_VALLEY_KEYNOTE -> Topic: MVP Development 🚀
-[2024-12-XX] INFO: AITU_ICODE_OLYMPIAD -> Rank: FINALIST 🏅
-
-┌─────────── SPEAKER_CREDENTIALS ───────────┐
-│ > Google DevFest 2024                     │
-│   "AI & Big Data in Real-World Apps"      │
-│                                           │
-│ > Terricon Valley 2025                    │
-│   "How to Build an MVP from an Idea"      │
-│                                           │
-│ > AITU ICODE Olympiad 2024               │
-│   "Algorithms & Data Structures"          │
-└───────────────────────────────────────────┘
+🎖️ RECENT ACHIEVEMENT UNLOCKED! 🎖️
+┌─────────────────────────────────────┐
+│  🏆 "HACKATHON CHAMPION"           │
+│  Won 1st Place in Major Competition │  
+│  Reward: +1000 XP, Legendary Status │
+└─────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-```bash
-┌─[alpamys@cyber-dev]─[~]
-└──╼ $ cat mission_2025.py
+## 🏗️ My Builds (Featured Projects)
+
+<div align="center">
+
+```
+🏰 ========== PROJECT SHOWCASE ========== 🏰
+
+🔍 [FAIRTENDER CASTLE] - Procurement Detection Fortress
+    📊 Accuracy: 96.1% (Diamond Grade)
+    ⚔️ Weapons: XGBoost + SHAP Analysis
+    🏗️ Built with: Python, ML, Streamlit
+    📜 Quest: Detect suspicious procurements
+
+♟️ [CHESS.AI ARENA] - Strategic AI Battleground  
+    🧠 AI Engine: Stockfish Integration
+    ⚔️ Frontend: Chess.js Interface
+    🎯 Purpose: Train chess masters
+    📜 Quest: Make chess learning fun
+
+🛡️ [FAKE NEWS DETECTOR] - Truth Guardian Tower
+    🔮 Power: LLM-based fact checking
+    📈 Feature: Confidence scoring system  
+    🌐 Platform: Web application
+    📜 Quest: Fight misinformation
+
+🧬 [AIBIO LAB] - 🥇 WINNER BUILD
+    🏆 Achievement: 1st Place Victory
+    🧪 Features: AI tutor + 3D models
+    📚 Domain: Biology education
+    📜 Quest: Revolutionary learning
+
+🦙 [META LLAMA PROJECT] - Classified Build
+    🔒 Status: Top Secret (Finalist)
+    🏢 Sponsor: Meta Accelerator Program
+    🚀 Level: Industry Grade
+    📜 Quest: [REDACTED]
 ```
 
-```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+</div>
 
-class Mission2025:
-    def __init__(self):
-        self.objectives = {
-            "open_source_dominance": {
-                "target": "Contribute to major AI frameworks",
-                "impact": "Global developer community",
-                "status": "IN_PROGRESS"
-            },
-            "package_deployment": {
-                "target": "Release production-ready pip package",
-                "impact": "10k+ downloads goal",
-                "status": "DEVELOPING"
-            },
-            "hackathon_mastery": {
-                "target": "Win/Mentor 2+ hackathons",
-                "impact": "Inspire next generation",
-                "status": "HUNTING"
-            },
-            "neural_evolution": {
-                "target": "Master advanced ML architectures",
-                "impact": "Push AI boundaries",
-                "status": "RESEARCHING"
-            }
-        }
-    
-    def execute_mission(self):
-        print("🚀 MISSION STATUS: ACTIVE")
-        print("🎯 TARGET: DIGITAL DOMINANCE")
-        print("⚡ POWER LEVEL: MAXIMUM")
-        return "THE_FUTURE_IS_NOW"
+---
 
-if __name__ == "__main__":
-    mission = Mission2025()
-    mission.execute_mission()
+## 📊 GitHub Statistics
+
+<div align="center">
+
 ```
+╔═══════════════════ MINING STATISTICS ═══════════════════╗
+║                                                          ║
+║  ⛏️ BLOCKS MINED (Commits): Daily mining operations     ║
+║  💎 DIAMONDS FOUND (Stars): Quality code discoveries    ║
+║  🔥 STREAK COUNT: Consecutive coding days               ║
+║  📈 XP GAINED: Programming experience points           ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MakazhanAlpamys&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=00aa00&icon_color=ffaa00&text_color=ffffff&border_color=654321&custom_title=⚡+Player+Stats&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MakazhanAlpamys&layout=compact&theme=dark&bg_color=0a0a0a&title_color=00aa00&text_color=ffffff&border_color=654321&custom_title=🔧+Tools+Mastery&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=MakazhanAlpamys&theme=dark&background=0a0a0a&border=654321&stroke=00aa00&ring=ffaa00&fire=ff6b00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00aa00&sideLabels=00aa00&dates=ffffff&hide_border=true" alt="Mining Streak"/>
+
+</div>
+
+---
+
+## 🎤 Conference & Speaking Quests
+
+<div align="center">
+
+```
+📜 ============ SPEAKING ACHIEVEMENTS ============ 📜
+
+🎯 Google DevFest 2024
+   🗣️ Topic: "AI & Big Data in Real-World Applications"
+   📍 Location: Tech Conference
+   🏆 Status: Successfully Completed
+   
+🚀 Terricon Valley 2025  
+   🗣️ Topic: "How to Build an MVP from an Idea"
+   📍 Location: Startup Conference
+   🏆 Status: Keynote Speaker
+   
+🏅 AITU ICODE Olympiad 2024
+   🗣️ Focus: Algorithms & Data Structures
+   📍 Location: University Competition
+   🏆 Status: Finalist Achievement
+
+🎮 Speaking XP Earned: 9000+ Points
+📈 Public Speaking Level: Expert (Lvl 15)
+```
+
+</div>
+
+---
+
+## 🎯 2025 Quest Objectives
+
+<div align="center">
+
+```
+🗺️ =============== MISSION BOARD 2025 =============== 🗺️
+
+┌─ MAIN QUESTS ──────────────────────────────────────────┐
+│                                                        │
+│  🌟 [EPIC] Open Source Contributions                  │
+│     └─ Contribute to major AI frameworks & tools      │
+│     └─ Reward: Industry Recognition                   │
+│     └─ Status: 🔄 In Progress                         │
+│                                                        │
+│  📦 [RARE] Publish Pip Package                        │
+│     └─ Create and deploy production-ready package     │
+│     └─ Target: 1000+ downloads                        │
+│     └─ Status: 🔧 Development Phase                   │
+│                                                        │
+│  🏆 [LEGENDARY] Hackathon Mastery                     │
+│     └─ Win or mentor at 2+ major hackathons          │
+│     └─ Reward: Community Impact Achievement           │
+│     └─ Status: 🎯 Actively Hunting                    │
+│                                                        │
+│  🧠 [MYTHIC] AI Architecture Mastery                  │  
+│     └─ Master advanced ML & neural architectures     │
+│     └─ Reward: Expert Developer Status                │
+│     └─ Status: 📚 Research & Learning                 │
+│                                                        │
+└────────────────────────────────────────────────────────┘
+
+💡 Daily Quests: Code, Learn, Build, Share
+⚡ Bonus XP: Help other developers in community
+```
+
+</div>
+
+---
+
+## 📞 Contact & Multiplayer
+
+<div align="center">
+
+```
+🏠 ================ PLAYER CONTACTS ================ 🏠
+
+📧 Email Portal: makazanalpamys@gmail.com
+💬 Telegram Chat: @Th1men  
+🔗 LinkedIn Network: alpamys-makazhan-7059682a3
+🌐 GitHub Base: github.com/MakazhanAlpamys
+
+💌 Feel free to send friend requests or collaborate!
+🤝 Always open for coding adventures and hackathons
+```
+
+[![Email](https://img.shields.io/badge/📧_EMAIL-654321?style=for-the-badge&logo=gmail&logoColor=white)](mailto:makazanalpamys@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-654321?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alpamys-makazhan-7059682a3/)
+[![Telegram](https://img.shields.io/badge/💬_TELEGRAM-654321?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Th1men)
+
+</div>
 
 ---
 
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                      NEURAL LINK PROTOCOLS                    ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  📧 EMAIL_GATEWAY    ▶ makazanalpamys@gmail.com              ║
-║  💬 TELEGRAM_NODE    ▶ @Th1men                               ║
-║  🔗 LINKEDIN_MATRIX  ▶ alpamys-makazhan-7059682a3            ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
+🎮 ============================================= 🎮
+    "Every line of code is a block placed
+     in the infinite world of possibilities."
+                                 - Alpamys
+🎮 ============================================= 🎮
+
+⭐ Don't forget to star repositories you like! ⭐
+🔥 Happy coding, fellow miners! 🔥
 ```
 
-[![Email](https://img.shields.io/badge/NEURAL_MAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:makazanalpamys@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/PROFESSIONAL_MATRIX-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/alpamys-makazhan-7059682a3/)
-[![Telegram](https://img.shields.io/badge/INSTANT_RELAY-000000?style=for-the-badge&logo=telegram&logoColor=00FF41)](https://t.me/Th1men)
-
-```
-  ┌───────────────────────────────────────────────────────────────┐
-  │  "In the world of code, there are no limits—                  │
-  │   only algorithms waiting to be discovered."                  │
-  │                                                               │
-  │                              - Alpamys Makazhan              │
-  └───────────────────────────────────────────────────────────────┘
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=HACK%20THE%20PLANET&fontSize=20&fontColor=00FF41&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9&height=120&section=footer&text=KEEP%20BUILDING!&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
