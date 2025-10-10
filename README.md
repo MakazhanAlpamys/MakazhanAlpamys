@@ -227,7 +227,15 @@ fields_of_interests:
 
 <div align="center">
 
-## 💼 Featured Projects
+## 🎯 Coding Journey
+
+</div>
+
+<div align="center">
+  
+<a href="https://github.com/MakazhanAlpamys">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MakazhanAlpamys&theme=radical" alt="Profile Summary" />
+</a>
 
 </div>
 
@@ -235,30 +243,18 @@ fields_of_interests:
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🤖 AI Projects</h3>
-<div align="center">
-<a href="https://github.com/MakazhanAlpamys?tab=repositories&q=&type=&language=python&sort=stargazers" target="_blank">
-<img src="https://img.shields.io/badge/View_AI_Projects-00D9FF?style=for-the-badge&logo=robot&logoColor=white" alt="AI Projects" />
-</a>
-</div>
-<p align="center">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MakazhanAlpamys&theme=radical" alt="Repos per Language" />
 </td>
 <td width="50%">
-<h3 align="center">🌐 Full Stack Apps</h3>
-<div align="center">
-<a href="https://github.com/MakazhanAlpamys?tab=repositories&q=&type=&language=javascript&sort=stargazers" target="_blank">
-<img src="https://img.shields.io/badge/View_Web_Projects-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web Projects" />
-</a>
-</div>
-<p align="center">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MakazhanAlpamys&theme=radical" alt="Most Commit Language" />
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MakazhanAlpamys&theme=radical" alt="Stats" />
+</td>
+<td width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MakazhanAlpamys&theme=radical&utcOffset=6" alt="Productive Time" />
 </td>
 </tr>
 </table>
