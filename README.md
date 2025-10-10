@@ -205,16 +205,36 @@ fields_of_interests:
 </div>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MakazhanAlpamys&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Alpamys Makazhan github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakazhanAlpamys&layout=compact&hide_border=true&title_color=00D9FF&text_color=00D9FF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MakazhanAlpamys&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="Alpamys Makazhan github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakazhanAlpamys&layout=compact&hide_border=true&title_color=00D9FF&text_color=00D9FF&bg_color=0d1117&border_radius=10" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MakazhanAlpamys&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="streak stats"/>
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=MakazhanAlpamys&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border_radius=10" alt="streak stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MakazhanAlpamys&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MakazhanAlpamys&bg_color=0d1117&color=00d9ff&line=00d9ff&point=00d9ff&area=true&hide_border=true&radius=10" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MakazhanAlpamys&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title_color=00D9FF&icon_color=00D9FF&text_color=00D9FF" alt="trophies"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+### 🐍 Watch my contribution graph get eaten by the snake!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MakazhanAlpamys/MakazhanAlpamys/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MakazhanAlpamys/MakazhanAlpamys/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MakazhanAlpamys/MakazhanAlpamys/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -229,4 +249,4 @@ fields_of_interests:
 
 *⭐ Star the repos you like! Let's build something amazing together! 🚀*
 
-</div
+</div>
