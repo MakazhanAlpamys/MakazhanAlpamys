@@ -227,14 +227,41 @@ fields_of_interests:
 
 <div align="center">
 
-### 🐍 Watch my contribution graph get eaten by the snake!
+## 💼 Featured Projects
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MakazhanAlpamys/MakazhanAlpamys/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MakazhanAlpamys/MakazhanAlpamys/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MakazhanAlpamys/MakazhanAlpamys/output/github-contribution-grid-snake.svg">
-</picture>
+</div>
 
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🤖 AI Projects</h3>
+<div align="center">
+<a href="https://github.com/MakazhanAlpamys?tab=repositories&q=&type=&language=python&sort=stargazers" target="_blank">
+<img src="https://img.shields.io/badge/View_AI_Projects-00D9FF?style=for-the-badge&logo=robot&logoColor=white" alt="AI Projects" />
+</a>
+</div>
+<p align="center">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">🌐 Full Stack Apps</h3>
+<div align="center">
+<a href="https://github.com/MakazhanAlpamys?tab=repositories&q=&type=&language=javascript&sort=stargazers" target="_blank">
+<img src="https://img.shields.io/badge/View_Web_Projects-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web Projects" />
+</a>
+</div>
+<p align="center">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
+</td>
+</tr>
+</table>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
