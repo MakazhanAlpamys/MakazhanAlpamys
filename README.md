@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=Hi+there!+I'm+Alpamys+Makazhan+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%8E%93;AI+%26+Full-Stack+Developer+%F0%9F%A4%96;Welcome+to+my+GitHub!+%E2%AD%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=Hi+there!+I'm+Alpamys+Makazhan+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%8E%93;AI+%26+Full-Stack+Developer+%F0%9F%A4%96;Hackathon+Winner+%F0%9F%8F%86;Building+the+Future+with+Code+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br>
@@ -30,35 +30,42 @@
 
 ```yaml
 name: Alpamys Makazhan
-located_in: Kazakhstan 🇰🇿
-current_job: Computer Science Student
+located_in: Astana, Kazakhstan 🇰🇿
+current_status: Computer Science Student & Developer
 education: 
   - "Associate of Applied Science in Software Development"
   - "Astana IT University College"
   - "Graduating: 2026"
   
-fields_of_interests:
+passions:
   - "Artificial Intelligence & Machine Learning"
-  - "Computer Vision"
-  - "Full-Stack Development" 
+  - "Computer Vision & Deep Learning"
+  - "Full-Stack & Mobile Development" 
   - "Competitive Programming"
-  - "Hackathons & Innovation"
+  - "Cloud Architecture & DevOps"
+  
+currently_learning:
+  - "Advanced AI/ML Algorithms"
+  - "Scalable System Design"
+  - "Cloud-Native Development"
 ```
 
 </td>
 <td width="50%">
 
-### 🏆 **Achievements**
-- 🥇 **1st Place** at Hackathons 2025
-- 🚀 **Finalist** at Meta Llama Accelerator 2025
-- 🎤 **Speaker** at Google DevFest 2024
-- 🎯 **Speaker** at Terricon Valley 2025
-- 🧠 **Finalist** at AITU ICODE Olympiad 2024
+### 🏆 **Achievements & Recognition**
+- 🥇 **1st Place** — Hackathons 2025
+- 🚀 **Finalist** — Meta Llama Accelerator 2025
+- 🎤 **Speaker** — Google DevFest 2024
+- 🎯 **Speaker** — Terricon Valley 2025
+- 🧠 **Finalist** — AITU ICODE Olympiad 2024
+- 🌟 **Active Contributor** — Open Source Community
 
-### 📫 **Let's Connect**
+### 📫 **Get in Touch**
 - 📧 [makazanalpamys@gmail.com](mailto:makazanalpamys@gmail.com)
-- 💬 [@Th1men](https://t.me/Th1men) on Telegram
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/alpamys-makazhan-7059682a3/)
+- 💬 [@Th1men](https://t.me/Th1men) — Telegram
+- 💼 [LinkedIn](https://www.linkedin.com/in/alpamys-makazhan-7059682a3/)
+- 🐙 [GitHub](https://github.com/MakazhanAlpamys)
 
 </td>
 </tr>
@@ -68,18 +75,22 @@ fields_of_interests:
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Expertise
 
 </div>
 
 <div align="center">
 
-### 💻 Programming Languages
+### 💻 Core Languages
 <table>
 <tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
 <br><strong>Python</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+<br><strong>C++</strong>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
@@ -97,10 +108,6 @@ fields_of_interests:
 <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
 <br><strong>TypeScript</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
-<br><strong>Dart</strong>
-</td>
 </tr>
 </table>
 
@@ -112,24 +119,20 @@ fields_of_interests:
 <br><strong>React</strong>
 </td>
 <td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React Native" />
+<br><strong>React Native</strong>
+</td>
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
 <br><strong>Flutter</strong>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-<br><strong>HTML5</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-<br><strong>CSS3</strong>
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br><strong>Next.js</strong>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-<br><strong>Tailwind</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-<br><strong>Bootstrap</strong>
+<br><strong>Tailwind CSS</strong>
 </td>
 </tr>
 </table>
@@ -146,6 +149,10 @@ fields_of_interests:
 <br><strong>Express</strong>
 </td>
 <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+<br><strong>FastAPI</strong>
+</td>
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
 <br><strong>PostgreSQL</strong>
 </td>
@@ -157,14 +164,40 @@ fields_of_interests:
 <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
 <br><strong>Redis</strong>
 </td>
+</tr>
+</table>
+
+### ☁️ Cloud & DevOps
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud" />
+<br><strong>Google Cloud</strong>
+</td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
 <br><strong>Docker</strong>
 </td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+<br><strong>Kubernetes</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br><strong>Git</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br><strong>GitHub</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br><strong>Linux</strong>
+</td>
 </tr>
 </table>
 
-### 🤖 AI/ML & Tools
+### 🤖 AI/ML & Data Science
 <table>
 <tr>
 <td align="center" width="96">
@@ -180,16 +213,16 @@ fields_of_interests:
 <br><strong>OpenCV</strong>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br><strong>Git</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+<br><strong>NumPy</strong>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br><strong>GitHub</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+<br><strong>Pandas</strong>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br><strong>VS Code</strong>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
+<br><strong>Scikit-learn</strong>
 </td>
 </tr>
 </table>
@@ -200,13 +233,13 @@ fields_of_interests:
 
 <div align="center">
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 </div>
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MakazhanAlpamys&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="Alpamys Makazhan github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakazhanAlpamys&layout=compact&hide_border=true&title_color=00D9FF&text_color=00D9FF&bg_color=0d1117&border_radius=10" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakazhanAlpamys&layout=compact&hide_border=true&title_color=00D9FF&text_color=00D9FF&bg_color=0d1117&border_radius=10&langs_count=8" />
 </div>
 
 <div align="center">
@@ -227,7 +260,7 @@ fields_of_interests:
 
 <div align="center">
 
-## 🎯 Coding Journey
+## 🎯 Contribution Activity
 
 </div>
 
@@ -263,6 +296,48 @@ fields_of_interests:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
+
+## 💡 What I'm Working On
+
+</div>
+
+```javascript
+const alpamys = {
+    currentFocus: ["AI/ML Projects", "Full-Stack Apps", "Open Source"],
+    learning: ["Advanced Deep Learning", "System Design", "Cloud Architecture"],
+    goals2025: [
+        "Contribute to major open-source AI projects",
+        "Build and deploy scalable ML applications",
+        "Win more hackathons and competitions",
+        "Share knowledge through tech talks"
+    ],
+    funFact: "I debug code faster than I solve puzzles! 🧩"
+};
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+## 🤝 Let's Collaborate!
+
+</div>
+
+<div align="center">
+
+I'm always open to collaborating on interesting projects, especially in:
+- 🤖 **AI/ML Applications** — Computer Vision, NLP, Deep Learning
+- 🌐 **Full-Stack Development** — Modern web and mobile apps
+- ☁️ **Cloud Solutions** — Scalable, cloud-native architectures
+- 🏆 **Hackathons** — Building innovative solutions under pressure
+
+**Feel free to reach out if you want to build something amazing together!**
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 </div>
 
@@ -270,6 +345,8 @@ fields_of_interests:
   
 **💫 Made with ❤️ by Alpamys Makazhan**
 
-*⭐ Star the repos you like! Let's build something amazing together! 🚀*
+*⭐ If you like my work, consider starring my repositories!*
+
+*Let's connect and build the future together! 🚀*
 
 </div>
