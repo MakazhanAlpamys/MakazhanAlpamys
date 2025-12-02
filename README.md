@@ -1,113 +1,275 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,161b22,00D9FF&height=220&section=header&text=Alpamys%20Makazhan&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Alpamys%20Makazhan&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=70&lines=Lead+Mobile+Engineer+%40+GovTech;NASA+Space+Apps+Global+Nominee+%F0%9F%8C%8D;Building+AI+for+Healthcare+%26+Smart+Cities;CS+Student+%40+Astana+IT+University+College" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=Hi+there!+I'm+Alpamys+Makazhan+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%8E%93;AI+%26+Full-Stack+Developer+%F0%9F%A4%96;Welcome+to+my+GitHub!+%E2%AD%90" alt="Typing SVG" />
 </div>
 
+<br>
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/alpamys-makazhan-7059682a3/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
-  <a href="mailto:makazanalpamys@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"></a>
+  <img src="https://img.shields.io/github/followers/MakazhanAlpamys?label=Followers&style=for-the-badge&color=00D9FF&labelColor=1a1a2e" alt="followers">
   <img src="https://komarev.com/ghpvc/?username=MakazhanAlpamys&style=for-the-badge&color=00D9FF&label=Profile+Views" alt="profile views"/>
+  <a href="https://www.linkedin.com/in/alpamys-makazhan-7059682a3/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 </div>
 
 <br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🌟 About Me
+
 </div>
 
-<h2 align="center">👨‍💻 About Me & Impact</h2>
-
-<p align="center">
-  I am a Computer Science student and <b>Lead Engineer</b> based in Kazakhstan 🇰🇿.<br>
-  I specialize in building high-load backend architectures and AI models that solve real-world problems,<br> from healthcare diagnostics to national security systems.
-</p>
-
-<br>
-
-<table align="center" width="100%">
+<table align="center">
 <tr>
-<td width="55%" valign="top">
+<td width="50%">
 
-### 🚀 **Key Projects & Experience**
-
-*   **🏥 AiBio (HealthTech)**
-    *   *Role:* Creator & ML Engineer
-    *   *Impact:* Deployed hospital AI screening tool for diabetes detection.
-    *   *Tech:* Python, PyTorch, Computer Vision.
-
-*   **🚔 GovTech Project (Ministry of Internal Affairs)**
-    *   *Role:* Lead Mobile Engineer
-    *   *Impact:* Developed GPS/Security backend architecture.
-    *   *Note:* Code is private due to NDA/Security protocols.
-
-*   **👵 QamQor (Social Startup)**
-    *   *Role:* Co-Founder & CTO
-    *   *Impact:* FinTech solution for the elderly ($2k funding).
+```yaml
+name: Alpamys Makazhan
+located_in: Kazakhstan 🇰🇿
+current_job: Computer Science Student
+education: 
+  - "Associate of Applied Science in Software Development"
+  - "Astana IT University College"
+  - "Graduating: 2026"
+  
+fields_of_interests:
+  - "Artificial Intelligence & Machine Learning"
+  - "Computer Vision"
+  - "Full-Stack Development" 
+  - "Competitive Programming"
+  - "Hackathons & Innovation"
+```
 
 </td>
-<td width="45%" valign="top">
+<td width="50%">
 
-### 🏆 **Honors & Awards**
+### 🏆 **Achievements**
+- 🥇 **1st Place** at Hackathons 2025
+- 🚀 **Finalist** at Meta Llama Accelerator 2025
+- 🎤 **Speaker** at Google DevFest 2024
+- 🎯 **Speaker** at Terricon Valley 2025
+- 🧠 **Finalist** at AITU ICODE Olympiad 2024
 
-*   🌍 **Global Nominee** | NASA Space Apps Challenge (Top selection from 50k+)
-*   🥇 **1st Place** | PowerUp Hackathon (EdTech/AI)
-*   🥇 **1st Place** | DevFest Astana Hackathon (Smart City)
-*   🥇 **1st Place** | WorldSkills Astana (Web Technologies)
-*   🎤 **Keynote Speaker** | Google DevFest & Terricon (AI/Big Data)
-*   🥋 **2x City Champion** | Sambo (Competitive Sports)
+### 📫 **Let's Connect**
+- 📧 [makazanalpamys@gmail.com](mailto:makazanalpamys@gmail.com)
+- 💬 [@Th1men](https://t.me/Th1men) on Telegram
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/alpamys-makazhan-7059682a3/)
 
 </td>
 </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🛠️ Tech Stack
+
 </div>
 
-<h2 align="center">🛠️ Technical Arsenal</h2>
+<div align="center">
+
+### 💻 Programming Languages
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br><strong>Python</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+<br><strong>C#</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br><strong>Java</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br><strong>JavaScript</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+<br><strong>TypeScript</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+<br><strong>Dart</strong>
+</td>
+</tr>
+</table>
+
+### 🎨 Frontend & Mobile
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br><strong>React</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+<br><strong>Flutter</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br><strong>HTML5</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br><strong>CSS3</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br><strong>Tailwind</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+<br><strong>Bootstrap</strong>
+</td>
+</tr>
+</table>
+
+### ⚙️ Backend & Databases
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br><strong>Node.js</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+<br><strong>Express</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+<br><strong>PostgreSQL</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br><strong>MongoDB</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+<br><strong>Redis</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br><strong>Docker</strong>
+</td>
+</tr>
+</table>
+
+### 🤖 AI/ML & Tools
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+<br><strong>TensorFlow</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+<br><strong>PyTorch</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+<br><strong>OpenCV</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br><strong>Git</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br><strong>GitHub</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br><strong>VS Code</strong>
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,ts,dart,go" height="50" alt="Languages" />
+## 📊 GitHub Stats
 
-### ⚙️ Backend, Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgresql,mongodb,redis,docker,aws,linux,nginx" height="50" alt="Backend" />
+</div>
 
-### 🧠 AI / ML & Data Science
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,pandas,numpy,sklearn" height="50" alt="AI" />
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MakazhanAlpamys&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="Alpamys Makazhan github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakazhanAlpamys&layout=compact&hide_border=true&title_color=00D9FF&text_color=00D9FF&bg_color=0d1117&border_radius=10" />
+</div>
 
-### 📱 Frontend & Mobile
-<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,tailwind,bootstrap,figma" height="50" alt="Frontend" />
+<div align="center">
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=MakazhanAlpamys&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border_radius=10" alt="streak stats"/>
+</div>
 
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MakazhanAlpamys&bg_color=0d1117&color=00d9ff&line=00d9ff&point=00d9ff&area=true&hide_border=true&radius=10" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=MakazhanAlpamys&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title_color=00D9FF&icon_color=00D9FF&text_color=00D9FF" alt="trophies"/>
 </div>
 
-<h2 align="center">📊 GitHub Activity</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <!-- Activity Graph -->
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MakazhanAlpamys&bg_color=0d1117&color=00d9ff&line=00d9ff&point=00d9ff&area=true&hide_border=true&radius=10" />
+
+## 🎯 Coding Journey
+
 </div>
 
-<br>
-
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MakazhanAlpamys&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10&include_all_commits=true" alt="stats" /> 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakazhanAlpamys&layout=compact&hide_border=true&title_color=00D9FF&text_color=00D9FF&bg_color=0d1117&border_radius=10&langs_count=8" />
+  
+<a href="https://github.com/MakazhanAlpamys">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MakazhanAlpamys&theme=radical" alt="Profile Summary" />
+</a>
+
 </div>
 
-<br>
-<br>
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MakazhanAlpamys&theme=radical" alt="Repos per Language" />
+</td>
+<td width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MakazhanAlpamys&theme=radical" alt="Most Commit Language" />
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MakazhanAlpamys&theme=radical" alt="Stats" />
+</td>
+<td width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MakazhanAlpamys&theme=radical&utcOffset=6" alt="Productive Time" />
+</td>
+</tr>
+</table>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,161b22,00D9FF&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+</div>
+
+<div align="center">
+  
+**💫 Made with ❤️ by Alpamys Makazhan**
+
+*⭐ Star the repos you like! Let's build something amazing together! 🚀*
+
 </div>
