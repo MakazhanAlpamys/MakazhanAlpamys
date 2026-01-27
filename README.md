@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header with Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Alpamys%20Makazhan&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Solo%20Founder%20%7C%20AI%20Developer%20%7C%2050%20Failed%20Startups&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Alpamys%20Makazhan&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Solo%20founder%20with%2050%20failed%20startups&descAlignY=55&descSize=18"/>
 
 <!-- Animated Typing Effect -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Solo+Founder+with+50+Failed+Startups;Every+Failure+is+a+Lesson+%F0%9F%9A%80;Building+the+Next+Big+Thing+%E2%9C%A8" alt="Typing SVG" />
@@ -51,7 +51,7 @@
 👨‍💻 Profile:
   name: "Alpamys Makazhan"
   location: "Astana, Kazakhstan 🇰🇿"
-  role: "Solo Founder | AI Developer"
+  role: "Solo founder with 50 failed startups"
   
 💼 Journey:
   status: "50 Failed Startups"
