@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header with Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Alpamys%20Makazhan&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20AI%20Developer%20%7C%20Hackathon%20Winner&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Alpamys%20Makazhan&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Solo%20Founder%20%7C%20AI%20Developer%20%7C%2050%20Failed%20Startups&descAlignY=55&descSize=18"/>
 
 <!-- Animated Typing Effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;AI+%26+Full-Stack+Development;Building+Intelligent+Solutions+%F0%9F%9A%80;Passionate+about+Innovation+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Solo+Founder+with+50+Failed+Startups;Every+Failure+is+a+Lesson+%F0%9F%9A%80;Building+the+Next+Big+Thing+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
@@ -48,28 +48,14 @@
 </div>
 
 ```yaml
-👨‍💻 Developer Profile:
+👨‍💻 Profile:
   name: "Alpamys Makazhan"
   location: "Astana, Kazakhstan 🇰🇿"
-  role: "Computer Science Student & AI Developer"
+  role: "Solo Founder | AI Developer"
   
-🎓 Education:
-  degree: "Associate of Applied Science"
-  major: "Software Development"
-  institution: "Astana IT University College"
-  graduation: 2026
-  
-💡 Passions:
-  - Artificial Intelligence & Machine Learning
-  - Computer Vision & Deep Learning
-  - Full-Stack & Mobile Development
-  - Competitive Programming
-  - Cloud Architecture & DevOps
-  
-🚀 Currently Learning:
-  - Advanced AI/ML Algorithms
-  - Scalable System Design
-  - Cloud-Native Development
+💼 Journey:
+  status: "50 Failed Startups"
+  philosophy: "Every failure brings me closer to success"
   
 📫 Contact:
   email: "makazanalpamys@gmail.com"
@@ -125,57 +111,13 @@
 
 <br/>
 
-<!-- Current Work Section -->
-<div align="center">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> What I'm Working On
-
-</div>
-
-```javascript
-const alpamys = {
-    code: ["JavaScript", "Python", "C++", "Java", "TypeScript"],
-    
-    currentFocus: {
-        ai_ml: ["Computer Vision", "Deep Learning", "NLP"],
-        development: ["Full-Stack Apps", "Mobile Development"],
-        community: ["Open Source Contribution", "Tech Talks"]
-    },
-    
-    learning: {
-        advanced: ["Deep Learning Architectures", "System Design Patterns"],
-        cloud: ["Cloud-Native Development", "Microservices"],
-        tools: ["Kubernetes", "Docker", "CI/CD"]
-    },
-    
-    goals2025: [
-        "🚀 Contribute to major open-source AI projects",
-        "💻 Build and deploy scalable ML applications",
-        "🏆 Win more hackathons and competitions",
-        "🎤 Share knowledge through tech talks",
-        "🌟 Grow developer community presence"
-    ],
-    
-    funFact: "I turn coffee into code and bugs into features! ☕️➡️🐛➡️✨"
-};
-
-console.log("Building the future, one commit at a time... 🚀");
-```
-
-<br/>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
 <!-- Connect Section -->
 <div align="center">
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="50"> Let's Connect!
 
 <p align="center">
-  <i>💬 Feel free to reach out for collaborations or just a friendly chat!</i>
+  <i>💬 Open to collaborations and new opportunities!</i>
 </p>
 
 <p align="center">
@@ -214,9 +156,9 @@ console.log("Building the future, one commit at a time... 🚀");
   
 **💫 Crafted with ❤️ and ☕️ by Alpamys Makazhan**
 
-*"Code is like humor. When you have to explain it, it's bad." - Cory House*
+*"The only way to do great work is to love what you do." - Steve Jobs*
 
-**Let's build something amazing together! 🚀**
+**Building startup #51 🚀**
 
 </div>
 
