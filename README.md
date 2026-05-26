@@ -10,7 +10,7 @@
 
 <!-- Social Badges with Glassmorphism Effect -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/alpamys-makazhan-7059682a3/">
+  <a href="https://www.linkedin.com/in/justalpamys/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
   <a href="mailto:makazanalpamys@gmail.com">
@@ -124,7 +124,7 @@
   <a href="mailto:makazanalpamys@gmail.com">
     <img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/alpamys-makazhan-7059682a3/">
+  <a href="https://www.linkedin.com/in/justalpamys/">
     <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://t.me/Th1men">
