@@ -2,58 +2,71 @@
 
 # Alpamys Makazhan
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=B8492A&center=true&vCenter=true&width=560&lines=%3E+co-founder+%26+CTO+at+Soup;%3E+fine-tune+any+open+LLM+in+one+command;%3E+based+in+Astana%2C+Kazakhstan" alt="Co-founder & CTO at Soup" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=520&lines=%3E+co-founder+%26+CTO+at+Soup;%3E+shipping+since+15%2C+100%2B+projects+delivered;%3E+based+in+Astana%2C+Kazakhstan" alt="co-founder & CTO at Soup" />
 
 <br/>
 
-<a href="https://trysoup.dev"><img src="https://img.shields.io/badge/Website-0D1117?style=flat-square&logo=firefox&logoColor=B8492A" alt="Website" /></a>
-<a href="https://www.linkedin.com/in/justalpamys/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=B8492A" alt="LinkedIn" /></a>
-<a href="https://x.com/JustAlpamys"><img src="https://img.shields.io/badge/X-0D1117?style=flat-square&logo=x&logoColor=B8492A" alt="X" /></a>
-<a href="mailto:makazanalpamys@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=B8492A" alt="Email" /></a>
+<a href="https://trysoup.dev"><img src="https://img.shields.io/badge/Website-0D1117?style=flat-square&logo=firefox&logoColor=00D9FF" alt="Website" /></a>
+<a href="https://www.linkedin.com/in/justalpamys/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a>
+<a href="https://x.com/JustAlpamys"><img src="https://img.shields.io/badge/X-0D1117?style=flat-square&logo=x&logoColor=00D9FF" alt="X" /></a>
+<a href="https://t.me/Th1men"><img src="https://img.shields.io/badge/Telegram-0D1117?style=flat-square&logo=telegram&logoColor=00D9FF" alt="Telegram" /></a>
+<a href="mailto:makazanalpamys@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=00D9FF" alt="Email" /></a>
 
 </div>
 
 <br/>
 
-## Soup
+I write infrastructure for people who train models on hardware that shouldn't be able to train them.
 
-Fine-tune and post-train any open LLM in one command — no SSH, no config hell.
+Took my first freelance job at 15 and have delivered **100+ projects** since — web, mobile, ML and data. Now full-time building [**Soup**](https://trysoup.dev), an open-source CLI that fine-tunes any open LLM in one command.
 
-```bash
-pip install soup-cli
-soup train
-```
-
-**Layer streaming** — the frozen base model streams from CPU RAM one layer at a time, so a 3B model fine-tunes in **2.15 GB on a 4 GB GPU**. First fine-tuning CLI where the base model doesn't have to fit in VRAM.
-
-**Training provenance** — ML-BOM, SLSA-3 attestation, EU AI Act Annex XI/XII docs, signed adapters. Nothing else in the category ships it.
-
-<p>
-<a href="https://pypi.org/project/soup-cli/"><img src="https://img.shields.io/pypi/v/soup-cli?style=flat-square&color=b8492a&label=pypi" alt="PyPI" /></a>
-<a href="https://pepy.tech/project/soup-cli"><img src="https://img.shields.io/pepy/dt/soup-cli?style=flat-square&color=b8492a&label=downloads" alt="Downloads" /></a>
-<a href="https://github.com/MakazhanAlpamys/Soup"><img src="https://img.shields.io/github/stars/MakazhanAlpamys/Soup?style=flat-square&color=b8492a&label=stars" alt="Stars" /></a>
-<img src="https://img.shields.io/badge/tests-16,735-b8492a?style=flat-square" alt="Tests" />
-<img src="https://img.shields.io/badge/license-Apache--2.0-555?style=flat-square" alt="License" />
-</p>
-
-<br/>
-
-## Also built
-
-- **[Kaspi Analytics](https://github.com/MakazhanAlpamys/Kaspi-Analytics-Platform)** — ML forecasting over 210,000+ marketplace products
-- **[NASA Exoplanet Detection AI](https://github.com/MakazhanAlpamys/NASA-Exoplanet-Detection-AI)** — ensemble ML on Kepler/K2/TESS data · *Space Apps Global Nominee*
-- **[ClaudeShield](https://github.com/MakazhanAlpamys/claudeshield)** — secure Docker sandbox for AI coding agents, in Go
-- **[PermitForge](https://github.com/MakazhanAlpamys/Permit-Forge)** — hybrid-RAG assistant over Dubai building codes
-- **[Smart City Advisor](https://github.com/MakazhanAlpamys/Smart-City-Advisor)** — RAG city guide for Astana · *1st place, GDG Astana 2025*
+- 🏆 &nbsp;**TechCrunch Startup Battlefield 2026** — #5 globally out of 726 applications from 39 countries
+- 🛰️ &nbsp;**NASA Space Apps Challenge** — Global Nominee
+- 🥇 &nbsp;**GDG Astana 2025** · **PowerUp Hackathon 2025** — 1st place
+- 🦙 &nbsp;**Meta Llama Accelerator** — finalist
+- 🎤 &nbsp;Spoke at **Google DevFest 2024** (500+ audience) and **Terricon Valley 2025**
 
 <br/>
 
 ## Stack
 
-`Python` `PyTorch` `HuggingFace` `Go` `TypeScript` `Next.js` `Flutter` `FastAPI` `PostgreSQL` `Docker` `AWS` `GCP`
+<p>
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00D9FF" alt="Python" />
+<img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=00D9FF" alt="PyTorch" />
+<img src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=flat-square&logo=huggingface&logoColor=00D9FF" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=00D9FF" alt="Go" />
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00D9FF" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=00D9FF" alt="Java" />
+<img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00D9FF" alt="C++" />
+<br/>
+<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00D9FF" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=00D9FF" alt="Next.js" />
+<img src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=00D9FF" alt="Flutter" />
+<img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=00D9FF" alt="Tailwind" />
+<img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=00D9FF" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Spring-0D1117?style=flat-square&logo=springboot&logoColor=00D9FF" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=00D9FF" alt="Node.js" />
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00D9FF" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=00D9FF" alt="Redis" />
+<img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=00D9FF" alt="Supabase" />
+<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00D9FF" alt="Docker" />
+<img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonwebservices&logoColor=00D9FF" alt="AWS" />
+<img src="https://img.shields.io/badge/GCP-0D1117?style=flat-square&logo=googlecloud&logoColor=00D9FF" alt="GCP" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=flat-square&logo=githubactions&logoColor=00D9FF" alt="GitHub Actions" />
+</p>
 
 <br/>
 
+## Stats
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MakazhanAlpamys&bg_color=00000000&color=b8492a&line=b8492a&point=b8492a&area=true&area_color=b8492a&hide_border=true&radius=6&custom_title=Contributions" alt="Contribution activity" width="100%" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MakazhanAlpamys&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakazhanAlpamys&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9" alt="Top languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MakazhanAlpamys&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&area_color=00D9FF&hide_border=true&radius=8&custom_title=Contribution%20Activity" alt="Contribution activity" width="100%" />
+
 </div>
