@@ -39,12 +39,7 @@
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MakazhanAlpamys&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakazhanAlpamys&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9" alt="Top languages" />
-
-<br/><br/>
-
-<img height="165" src="https://streak-stats.demolab.com?user=MakazhanAlpamys&hide_border=true&background=0D1117&stroke=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=MakazhanAlpamys&hide_border=true&background=0D1117&stroke=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280" alt="Streak" />
 
 <br/><br/>
 
