@@ -43,7 +43,6 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MakazhanAlpamys&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&area_color=00D9FF&hide_border=true&radius=8&custom_title=Contribution%20Activity" alt="Contribution activity" width="100%" />
+<img src="https://raw.githubusercontent.com/MakazhanAlpamys/MakazhanAlpamys/output/contribution-grid.svg" alt="Contribution grid" width="100%" />
 
 </div>
-
