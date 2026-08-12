@@ -46,4 +46,3 @@
 <img src="https://raw.githubusercontent.com/MakazhanAlpamys/MakazhanAlpamys/output/contribution-grid.svg" alt="Contribution grid" width="100%" />
 
 </div>
-
